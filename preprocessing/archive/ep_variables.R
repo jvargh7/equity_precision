@@ -9,7 +9,9 @@ countries_latin_america <- c("Mexico","Argentina","Bolivia","Chile","Colombia","
 
 
 pm_variables <- c("precision medicine","personalized medicine","stratified medicine",
-                  "individualized medicine","computational biology","metabolom","genom",
-                  "transcriptom","proteom","lipidom","metagenom","exposom")
+                  "individualized medicine","computational biology",
+                  "genom","transcript","proteom",
+                  "lipidom","metagenom","exposom",
+                  "glycom","pharmacogenom","metabolom")
 
 dm_variables <- c("diabetes","glucose","diabetic")
